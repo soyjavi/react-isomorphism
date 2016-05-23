@@ -1,5 +1,5 @@
 import React from 'react';
-// require('./Notification.css')
+const styles = require('./Notification.css')
 
 export default class Notification extends React.Component {
   render() {

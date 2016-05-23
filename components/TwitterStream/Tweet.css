@@ -1,3 +1,10 @@
 .tweet {
   margin: 1rem 0;
+  display: flex;
+}
+
+.tweet > img {
+  width: 48px;
+  height: 48px;
+  display: inline-block;
 }

@@ -1,7 +1,9 @@
 import React from 'react';
 import Notification from './Notification'
 import Tweets from './Tweets'
-// require('./index.css');
+require('./index.css');
+
+
 
 export default class TwitterStream extends React.Component {
 

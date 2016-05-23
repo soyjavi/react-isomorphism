@@ -1,5 +1,5 @@
 import React from 'react';
-// require('./Tweet.css');
+const styles = require('./Tweet.css');
 
 export default class Tweet extends React.Component {
 
